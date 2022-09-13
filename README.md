@@ -1,21 +1,17 @@
 <h1>Meu portfólio</h1>
 <h3>Objetivo:</h3>
     <p>
-    Criar uma página de vendas focando no siglepage aplications (SPA), onde contenha em uma única página todo o conteúdo do site, com o intuito que depois do primeiro carregamento do site nenhuma outra requisição precise ser feita por parte do servidor.
-    </p>
-
-    - As Vantagens são:
-        - Uma das maiores vantagens, que engloba as outras, é a renderização ser no lado do cliente.
-
-        - Há melhor experiência geral para o usuário, claro, desde que tudo bem feito, principalmente a latência até a renderização final é extremamente reduzida.
-
-        - Há redução de tráfego até o servidor e isso obviamente é ótimo.
-    
-    <p>
+    Criar uma página de vendas focando no siglepage aplications (SPA), onde contenha em uma única página todo o conteúdo do site, 
+    com o intuito que depois do primeiro carregamento do site nenhuma outra requisição precise ser feita 
+    por parte do servidor.
         Meu objetivo técnico na criação desse site é criar uma api restfull, que irá fazer o meio de campo entre 
         o back-end feito utilizando o django, e front-end onde usaremos o angular material, meu público alvo, 
-        são os vendedores de curso da hotmart e outras plataformas.
-    </p>
+        são os vendedores de curso da hotmart e outras plataformas.</p>
+    
+- As Vantagens do siglepage aplications (SPA) são:
+    - Uma das maiores vantagens, que engloba as outras, é a renderização ser no lado do cliente.
+    - Há melhor experiência geral para o usuário, principalmente a latência até a renderização final é extremamente reduzida.
+    - Há redução de tráfego até o servidor e isso obviamente é ótimo.
 
 
 <h3>Regra de negócios:</h3>
