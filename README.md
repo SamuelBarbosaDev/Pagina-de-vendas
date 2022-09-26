@@ -1,4 +1,4 @@
-<h1>Meu portfólio</h1>
+<h1>Pagina De Vendas Django</h1>
 <h3>Objetivo:</h3>
     <p>
     Criar uma página de vendas focando no siglepage aplications (SPA), onde contenha em uma única página todo o conteúdo do site, 
